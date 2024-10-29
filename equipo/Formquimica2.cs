@@ -1,8 +1,8 @@
 ﻿/*
  * Created by SharpDevelop.
- * User: CC2_PC39
+ * User: CC2_PC38
  * Date: 29/10/2024
- * Time: 07:27 a. m.
+ * Time: 03:06 p. m.
  * 
  * To change this template use Tools | Options | Coding | Edit Standard Headers.
  */
@@ -13,11 +13,11 @@ using System.Windows.Forms;
 namespace equipo
 {
 	/// <summary>
-	/// Description of Formfici.
+	/// Description of Formquimica2.
 	/// </summary>
-	public partial class fisi : Form
+	public partial class quimica2 : Form
 	{
-		public fisi()
+		public quimica2()
 		{
 			//
 			// The InitializeComponent() call is required for Windows Forms designer support.
@@ -27,12 +27,6 @@ namespace equipo
 			//
 			// TODO: Add constructor code after the InitializeComponent() call.
 			//
-		}
-		
-		void Button1Click(object sender, EventArgs e)
-		{
-			quimica2 formquimica2 = new quimica2();
-			formquimica2.Show();			
 		}
 	}
 }

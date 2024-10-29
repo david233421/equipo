@@ -67,6 +67,10 @@
     <Compile Include="Formmat.Designer.cs">
       <DependentUpon>Formmat.cs</DependentUpon>
     </Compile>
+    <Compile Include="Formquimica2.cs" />
+    <Compile Include="Formquimica2.Designer.cs">
+      <DependentUpon>Formquimica2.cs</DependentUpon>
+    </Compile>
     <Compile Include="MainForm.cs" />
     <Compile Include="MainForm.Designer.cs">
       <DependentUpon>MainForm.cs</DependentUpon>
@@ -89,6 +93,9 @@
     </EmbeddedResource>
     <EmbeddedResource Include="Formmat.resx">
       <DependentUpon>Formmat.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Formquimica2.resx">
+      <DependentUpon>Formquimica2.cs</DependentUpon>
     </EmbeddedResource>
     <EmbeddedResource Include="MainForm.resx">
       <DependentUpon>MainForm.cs</DependentUpon>
