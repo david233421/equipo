@@ -59,6 +59,10 @@
     <Compile Include="FormEnsayo.Designer.cs">
       <DependentUpon>FormEnsayo.cs</DependentUpon>
     </Compile>
+    <Compile Include="Formetica.cs" />
+    <Compile Include="Formetica.Designer.cs">
+      <DependentUpon>Formetica.cs</DependentUpon>
+    </Compile>
     <Compile Include="Formfici.cs" />
     <Compile Include="Formfici.Designer.cs">
       <DependentUpon>Formfici.cs</DependentUpon>
@@ -78,6 +82,10 @@
     <Compile Include="Formmat.cs" />
     <Compile Include="Formmat.Designer.cs">
       <DependentUpon>Formmat.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Formmoral.cs" />
+    <Compile Include="Formmoral.Designer.cs">
+      <DependentUpon>Formmoral.cs</DependentUpon>
     </Compile>
     <Compile Include="Formpartesensayo.cs" />
     <Compile Include="Formpartesensayo.Designer.cs">
@@ -108,6 +116,9 @@
     <EmbeddedResource Include="FormEnsayo.resx">
       <DependentUpon>FormEnsayo.cs</DependentUpon>
     </EmbeddedResource>
+    <EmbeddedResource Include="Formetica.resx">
+      <DependentUpon>Formetica.cs</DependentUpon>
+    </EmbeddedResource>
     <EmbeddedResource Include="Formfici.resx">
       <DependentUpon>Formfici.cs</DependentUpon>
     </EmbeddedResource>
@@ -122,6 +133,9 @@
     </EmbeddedResource>
     <EmbeddedResource Include="Formmat.resx">
       <DependentUpon>Formmat.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Formmoral.resx">
+      <DependentUpon>Formmoral.cs</DependentUpon>
     </EmbeddedResource>
     <EmbeddedResource Include="Formpartesensayo.resx">
       <DependentUpon>Formpartesensayo.cs</DependentUpon>
