@@ -1,8 +1,8 @@
 ﻿/*
  * Created by SharpDevelop.
- * User: CC2_PC39
- * Date: 29/10/2024
- * Time: 07:28 a. m.
+ * User: CC2_PC36
+ * Date: 30/10/2024
+ * Time: 07:53 a. m.
  * 
  * To change this template use Tools | Options | Coding | Edit Standard Headers.
  */
@@ -13,11 +13,11 @@ using System.Windows.Forms;
 namespace equipo
 {
 	/// <summary>
-	/// Description of Formhum.
+	/// Description of Formmoral.
 	/// </summary>
-	public partial class hum : Form
+	public partial class moral : Form
 	{
-		public hum()
+		public moral()
 		{
 			//
 			// The InitializeComponent() call is required for Windows Forms designer support.
@@ -27,18 +27,6 @@ namespace equipo
 			//
 			// TODO: Add constructor code after the InitializeComponent() call.
 			//
-		}
-		
-		void BtneticaClick(object sender, EventArgs e)
-		{
-			etica etica = new etica();
-			etica.Show();
-		}
-		
-		void BtnmoralClick(object sender, EventArgs e)
-		{
-			moral moral = new moral();
-			moral.Show();	
 		}
 	}
 }
