@@ -47,6 +47,18 @@
     </Reference>
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="Formcomcrit.cs" />
+    <Compile Include="Formcomcrit.Designer.cs">
+      <DependentUpon>Formcomcrit.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Formelaborarensayo.cs" />
+    <Compile Include="Formelaborarensayo.Designer.cs">
+      <DependentUpon>Formelaborarensayo.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FormEnsayo.cs" />
+    <Compile Include="FormEnsayo.Designer.cs">
+      <DependentUpon>FormEnsayo.cs</DependentUpon>
+    </Compile>
     <Compile Include="Formfici.cs" />
     <Compile Include="Formfici.Designer.cs">
       <DependentUpon>Formfici.cs</DependentUpon>
@@ -67,6 +79,18 @@
     <Compile Include="Formmat.Designer.cs">
       <DependentUpon>Formmat.cs</DependentUpon>
     </Compile>
+    <Compile Include="Formpartesensayo.cs" />
+    <Compile Include="Formpartesensayo.Designer.cs">
+      <DependentUpon>Formpartesensayo.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Formreseña.cs" />
+    <Compile Include="Formreseña.Designer.cs">
+      <DependentUpon>Formreseña.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Formtiposensayo.cs" />
+    <Compile Include="Formtiposensayo.Designer.cs">
+      <DependentUpon>Formtiposensayo.cs</DependentUpon>
+    </Compile>
     <Compile Include="MainForm.cs" />
     <Compile Include="MainForm.Designer.cs">
       <DependentUpon>MainForm.cs</DependentUpon>
@@ -75,6 +99,15 @@
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
   <ItemGroup>
+    <EmbeddedResource Include="Formcomcrit.resx">
+      <DependentUpon>Formcomcrit.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Formelaborarensayo.resx">
+      <DependentUpon>Formelaborarensayo.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FormEnsayo.resx">
+      <DependentUpon>FormEnsayo.cs</DependentUpon>
+    </EmbeddedResource>
     <EmbeddedResource Include="Formfici.resx">
       <DependentUpon>Formfici.cs</DependentUpon>
     </EmbeddedResource>
@@ -89,6 +122,15 @@
     </EmbeddedResource>
     <EmbeddedResource Include="Formmat.resx">
       <DependentUpon>Formmat.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Formpartesensayo.resx">
+      <DependentUpon>Formpartesensayo.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Formreseña.resx">
+      <DependentUpon>Formreseña.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Formtiposensayo.resx">
+      <DependentUpon>Formtiposensayo.cs</DependentUpon>
     </EmbeddedResource>
     <EmbeddedResource Include="MainForm.resx">
       <DependentUpon>MainForm.cs</DependentUpon>
