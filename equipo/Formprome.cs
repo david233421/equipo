@@ -1,8 +1,8 @@
 ﻿/*
  * Created by SharpDevelop.
  * User: CC2_PC39
- * Date: 29/10/2024
- * Time: 07:26 a. m.
+ * Date: 31/10/2024
+ * Time: 07:50 a. m.
  * 
  * To change this template use Tools | Options | Coding | Edit Standard Headers.
  */
@@ -13,11 +13,11 @@ using System.Windows.Forms;
 namespace equipo
 {
 	/// <summary>
-	/// Description of Formmat.
+	/// Description of Formprome.
 	/// </summary>
-	public partial class mat : Form
+	public partial class Formprome : Form
 	{
-		public mat()
+		public Formprome()
 		{
 			//
 			// The InitializeComponent() call is required for Windows Forms designer support.
@@ -27,18 +27,6 @@ namespace equipo
 			//
 			// TODO: Add constructor code after the InitializeComponent() call.
 			//
-		}
-		
-		void Button1Click(object sender, EventArgs e)
-		{
-			prome formprome = new prome();
-			formprome.Show();
-		}
-		
-		void Button2Click(object sender, EventArgs e)
-		{
-			medi formmedia = new medi();
-			formmedia.Show();
 		}
 	}
 }
