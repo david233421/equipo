@@ -1,8 +1,8 @@
 ﻿/*
  * Created by SharpDevelop.
- * User: CC2_PC39
- * Date: 29/10/2024
- * Time: 07:22 a. m.
+ * User: CC2_PC37
+ * Date: 31/10/2024
+ * Time: 07:52 a. m.
  * 
  * To change this template use Tools | Options | Coding | Edit Standard Headers.
  */
@@ -13,11 +13,11 @@ using System.Windows.Forms;
 namespace equipo
 {
 	/// <summary>
-	/// Description of Formingles.
+	/// Description of Formingles4.
 	/// </summary>
-	public partial class ingles : Form
+	public partial class ingles4 : Form
 	{
-		public ingles()
+		public ingles4()
 		{
 			//
 			// The InitializeComponent() call is required for Windows Forms designer support.
@@ -29,20 +29,29 @@ namespace equipo
 			//
 		}
 		
-		void PictureBox1Click(object sender, EventArgs e)
+		void Label3Click(object sender, EventArgs e)
 		{
 			
 		}
 		
-		void CerrarClick(object sender, EventArgs e)
+		void Label5Click(object sender, EventArgs e)
 		{
 			
 		}
 		
-		void SiguienteClick(object sender, EventArgs e)
+		void Label1Click(object sender, EventArgs e)
 		{
-			ingles2 Formingles2 =new ingles2();
-			Formingles2.Show();
+			
+		}
+		
+		void Label4Click(object sender, EventArgs e)
+		{
+			
+		}
+		
+		void Label6Click(object sender, EventArgs e)
+		{
+			
 		}
 	}
 }

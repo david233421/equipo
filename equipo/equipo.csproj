@@ -71,6 +71,18 @@
     <Compile Include="Formingles.Designer.cs">
       <DependentUpon>Formingles.cs</DependentUpon>
     </Compile>
+    <Compile Include="Formingles2.cs" />
+    <Compile Include="Formingles2.Designer.cs">
+      <DependentUpon>Formingles2.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Formingles3.cs" />
+    <Compile Include="Formingles3.Designer.cs">
+      <DependentUpon>Formingles3.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Formingles4.cs" />
+    <Compile Include="Formingles4.Designer.cs">
+      <DependentUpon>Formingles4.cs</DependentUpon>
+    </Compile>
     <Compile Include="Formlengua.cs" />
     <Compile Include="Formlengua.Designer.cs">
       <DependentUpon>Formlengua.cs</DependentUpon>
@@ -116,6 +128,15 @@
     </EmbeddedResource>
     <EmbeddedResource Include="Formingles.resx">
       <DependentUpon>Formingles.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Formingles2.resx">
+      <DependentUpon>Formingles2.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Formingles3.resx">
+      <DependentUpon>Formingles3.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Formingles4.resx">
+      <DependentUpon>Formingles4.cs</DependentUpon>
     </EmbeddedResource>
     <EmbeddedResource Include="Formlengua.resx">
       <DependentUpon>Formlengua.cs</DependentUpon>
