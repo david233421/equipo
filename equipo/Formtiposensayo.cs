@@ -28,5 +28,29 @@ namespace equipo
 			// TODO: Add constructor code after the InitializeComponent() call.
 			//
 		}
+		
+		void BtnfilosoficoClick(object sender, EventArgs e)
+		{
+			Filosofico Formfilosofico = new Filosofico();
+			Formfilosofico.Show();
+		}
+		
+		void BtnliterarioClick(object sender, EventArgs e)
+		{
+			Literario Formliterario = new Literario();
+			Formliterario.Show();
+		}
+		
+		void BtnargumentativoClick(object sender, EventArgs e)
+		{
+			Argumentativo Formargumentativo = new Argumentativo();
+			Formargumentativo.Show();
+		}
+		
+		void BtncientificoClick(object sender, EventArgs e)
+		{
+			Cientifico Formcientifico = new Cientifico();
+			Formcientifico.Show();
+		}
 	}
 }

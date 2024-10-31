@@ -28,21 +28,26 @@ C:\Users\CC2_PC40\Documents\SharpDevelop Projects\equipo\equipo\obj\Debug\equipo
 C:\Users\CC2_PC40\Documents\SharpDevelop Projects\equipo\equipo\obj\Debug\equipo.Elaborarensayo.resources
 C:\Users\CC2_PC40\Documents\SharpDevelop Projects\equipo\equipo\obj\Debug\equipo.Partesensayo.resources
 C:\Users\CC2_PC40\Documents\SharpDevelop Projects\equipo\equipo\obj\Debug\equipo.Tiposensayo.resources
-C:\Users\CC2_PC40\equipo\equipo\bin\Debug\equipo.exe
-C:\Users\CC2_PC40\equipo\equipo\bin\Debug\equipo.pdb
-C:\Users\CC2_PC40\equipo\equipo\obj\Debug\equipo.csprojResolveAssemblyReference.cache
-C:\Users\CC2_PC40\equipo\equipo\obj\Debug\equipo.Comcrit.resources
-C:\Users\CC2_PC40\equipo\equipo\obj\Debug\equipo.Elaborarensayo.resources
-C:\Users\CC2_PC40\equipo\equipo\obj\Debug\equipo.Ensayo.resources
-C:\Users\CC2_PC40\equipo\equipo\obj\Debug\equipo.fisi.resources
-C:\Users\CC2_PC40\equipo\equipo\obj\Debug\equipo.hum.resources
-C:\Users\CC2_PC40\equipo\equipo\obj\Debug\equipo.ingles.resources
-C:\Users\CC2_PC40\equipo\equipo\obj\Debug\equipo.lengua.resources
-C:\Users\CC2_PC40\equipo\equipo\obj\Debug\equipo.mat.resources
-C:\Users\CC2_PC40\equipo\equipo\obj\Debug\equipo.Partesensayo.resources
-C:\Users\CC2_PC40\equipo\equipo\obj\Debug\equipo.Reseña.resources
-C:\Users\CC2_PC40\equipo\equipo\obj\Debug\equipo.Tiposensayo.resources
-C:\Users\CC2_PC40\equipo\equipo\obj\Debug\equipo.MainForm.resources
-C:\Users\CC2_PC40\equipo\equipo\obj\Debug\equipo.csproj.GenerateResource.Cache
-C:\Users\CC2_PC40\equipo\equipo\obj\Debug\equipo.exe
-C:\Users\CC2_PC40\equipo\equipo\obj\Debug\equipo.pdb
+C:\Users\CC2_PC40\Documents\SharpDevelop Projects\equipo\equipo\obj\Debug\equipo.Cierre.resources
+C:\Users\CC2_PC40\Documents\SharpDevelop Projects\equipo\equipo\obj\Debug\equipo.Desarrollo.resources
+C:\Users\CC2_PC40\Documents\SharpDevelop Projects\equipo\equipo\obj\Debug\equipo.Introduccion.resources
+C:\Users\CC2_PC40\Documents\SharpDevelop Projects\equipo\equipo\obj\Debug\equipo.Argumentativo.resources
+C:\Users\CC2_PC40\Documents\SharpDevelop Projects\equipo\equipo\obj\Debug\equipo.Cientifico.resources
+C:\Users\CC2_PC40\Documents\SharpDevelop Projects\equipo\equipo\obj\Debug\equipo.Filosofico.resources
+C:\Users\CC2_PC40\Documents\SharpDevelop Projects\equipo\equipo\obj\Debug\equipo.Literario.resources
+C:\Users\CC2_PC40\Documents\SharpDevelop Projects\equipo\equipo\obj\Debug\equipo.Elaborarreseña.resources
+C:\Users\CC2_PC40\Documents\SharpDevelop Projects\equipo\equipo\obj\Debug\equipo.Partesreseña.resources
+C:\Users\CC2_PC40\Documents\SharpDevelop Projects\equipo\equipo\obj\Debug\equipo.Tiposreseña.resources
+C:\Users\CC2_PC40\Documents\SharpDevelop Projects\equipo\equipo\obj\Debug\equipo.Cierrereseña.resources
+C:\Users\CC2_PC40\Documents\SharpDevelop Projects\equipo\equipo\obj\Debug\equipo.Desarrolloreseña.resources
+C:\Users\CC2_PC40\Documents\SharpDevelop Projects\equipo\equipo\obj\Debug\equipo.Encabezadoreseña.resources
+C:\Users\CC2_PC40\Documents\SharpDevelop Projects\equipo\equipo\obj\Debug\equipo.Introduccionreseña.resources
+C:\Users\CC2_PC40\Documents\SharpDevelop Projects\equipo\equipo\obj\Debug\equipo.Reseñacritica.resources
+C:\Users\CC2_PC40\Documents\SharpDevelop Projects\equipo\equipo\obj\Debug\equipo.Reseñaliteraria.resources
+C:\Users\CC2_PC40\Documents\SharpDevelop Projects\equipo\equipo\obj\Debug\equipo.Formelaborarcom.resources
+C:\Users\CC2_PC40\Documents\SharpDevelop Projects\equipo\equipo\obj\Debug\equipo.Combiblicos.resources
+C:\Users\CC2_PC40\Documents\SharpDevelop Projects\equipo\equipo\obj\Debug\equipo.Comcritico.resources
+C:\Users\CC2_PC40\Documents\SharpDevelop Projects\equipo\equipo\obj\Debug\equipo.Comfilologicos.resources
+C:\Users\CC2_PC40\Documents\SharpDevelop Projects\equipo\equipo\obj\Debug\equipo.Comhistoricos.resources
+C:\Users\CC2_PC40\Documents\SharpDevelop Projects\equipo\equipo\obj\Debug\equipo.Comliterarios.resources
+C:\Users\CC2_PC40\Documents\SharpDevelop Projects\equipo\equipo\obj\Debug\equipo.Tiposcom.resources

@@ -28,5 +28,23 @@ namespace equipo
 			// TODO: Add constructor code after the InitializeComponent() call.
 			//
 		}
+		
+		void BtntiposreClick(object sender, EventArgs e)
+		{
+			Tiposreseña Formtiposreseña = new Tiposreseña();
+			Formtiposreseña.Show();
+		}
+		
+		void BtnpartesreClick(object sender, EventArgs e)
+		{
+			Partesreseña Formpartesreseña = new Partesreseña();
+			Formpartesreseña.Show();
+		}
+		
+		void BtnhacerreClick(object sender, EventArgs e)
+		{
+			Elaborarreseña Formelaborarreseña = new Elaborarreseña();
+			Formelaborarreseña.Show();
+		}
 	}
 }

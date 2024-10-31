@@ -28,5 +28,17 @@ namespace equipo
 			// TODO: Add constructor code after the InitializeComponent() call.
 			//
 		}
+		
+		void BtntiposcomClick(object sender, EventArgs e)
+		{
+			Tiposcom Formtiposcom = new Tiposcom();
+			Formtiposcom.Show();
+		}
+		
+		void BtnelaborarcomClick(object sender, EventArgs e)
+		{
+			Formelaborarcom Formelaborarcom = new Formelaborarcom();
+			Formelaborarcom.Show();
+		}
 	}
 }

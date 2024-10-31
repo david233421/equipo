@@ -36,17 +36,32 @@ namespace equipo
 		/// </summary>
 		private void InitializeComponent()
 		{
+			this.label1 = new System.Windows.Forms.Label();
 			this.SuspendLayout();
+			// 
+			// label1
+			// 
+			this.label1.Font = new System.Drawing.Font("Microsoft Sans Serif", 9.75F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+			this.label1.ForeColor = System.Drawing.Color.MediumBlue;
+			this.label1.Location = new System.Drawing.Point(13, 13);
+			this.label1.Name = "label1";
+			this.label1.Size = new System.Drawing.Size(376, 88);
+			this.label1.TabIndex = 0;
+			this.label1.Text = "1. Mantén una estructura (introducción, desarrollo, conclusión)\r\n2. Presenta idea" +
+			"s propias\r\n3. Cuida la ortografía\r\n4. Cita correctamente y recuerda incluir la b" +
+			"ibliografía\r\n5. Léelo y corrige errores";
 			// 
 			// Elaborarensayo
 			// 
 			this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 13F);
 			this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
 			this.BackColor = System.Drawing.Color.PeachPuff;
-			this.ClientSize = new System.Drawing.Size(284, 261);
+			this.ClientSize = new System.Drawing.Size(397, 116);
+			this.Controls.Add(this.label1);
 			this.Name = "Elaborarensayo";
 			this.Text = "Elaborar un ensayo";
 			this.ResumeLayout(false);
 		}
+		private System.Windows.Forms.Label label1;
 	}
 }

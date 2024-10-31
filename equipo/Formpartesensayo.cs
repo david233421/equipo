@@ -28,5 +28,23 @@ namespace equipo
 			// TODO: Add constructor code after the InitializeComponent() call.
 			//
 		}
+		
+		void BtnintroduccionClick(object sender, EventArgs e)
+		{
+			Introduccion Formintroduccion = new Introduccion();
+			Formintroduccion.Show();
+		}
+		
+		void BtndesarrolloClick(object sender, EventArgs e)
+		{
+			Desarrollo Formdesarrollo = new Desarrollo();
+			Formdesarrollo.Show();
+		}
+		
+		void BtnconclusionClick(object sender, EventArgs e)
+		{
+			Cierre Formcierre = new Cierre();
+			Formcierre.Show();
+		}
 	}
 }
