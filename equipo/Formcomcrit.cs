@@ -1,8 +1,8 @@
 ﻿/*
  * Created by SharpDevelop.
- * User: CC2_PC39
+ * User: CC2_PC40
  * Date: 29/10/2024
- * Time: 07:24 a. m.
+ * Time: 08:13 a. m.
  * 
  * To change this template use Tools | Options | Coding | Edit Standard Headers.
  */
@@ -13,11 +13,11 @@ using System.Windows.Forms;
 namespace equipo
 {
 	/// <summary>
-	/// Description of Formlengua.
+	/// Description of Formcomcrit.
 	/// </summary>
-	public partial class lengua : Form
+	public partial class Comcrit : Form
 	{
-		public lengua()
+		public Comcrit()
 		{
 			//
 			// The InitializeComponent() call is required for Windows Forms designer support.
@@ -28,22 +28,17 @@ namespace equipo
 			// TODO: Add constructor code after the InitializeComponent() call.
 			//
 		}
-		void BtncomcritClick(object sender, EventArgs e)
+		
+		void BtntiposcomClick(object sender, EventArgs e)
 		{
-			Comcrit Formcomcrit = new Comcrit();
-			Formcomcrit.Show();
+			Tiposcom Formtiposcom = new Tiposcom();
+			Formtiposcom.Show();
 		}
 		
-		void BtnresenaClick(object sender, EventArgs e)
+		void BtnelaborarcomClick(object sender, EventArgs e)
 		{
-			Reseña Formreseña = new Reseña();
-			Formreseña.Show();
-		}
-		
-		void BtnensayoClick(object sender, EventArgs e)
-		{
-			Ensayo FormEnsayo = new Ensayo();
-			FormEnsayo.Show();
+			Formelaborarcom Formelaborarcom = new Formelaborarcom();
+			Formelaborarcom.Show();
 		}
 	}
 }

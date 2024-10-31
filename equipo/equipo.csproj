@@ -47,9 +47,81 @@
     </Reference>
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="Formargumentativo.cs" />
+    <Compile Include="Formargumentativo.Designer.cs">
+      <DependentUpon>Formargumentativo.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Formcientifico.cs" />
+    <Compile Include="Formcientifico.Designer.cs">
+      <DependentUpon>Formcientifico.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Formcierre.cs" />
+    <Compile Include="Formcierre.Designer.cs">
+      <DependentUpon>Formcierre.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Formcierrereseña.cs" />
+    <Compile Include="Formcierrereseña.Designer.cs">
+      <DependentUpon>Formcierrereseña.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Formcombiblicos.cs" />
+    <Compile Include="Formcombiblicos.Designer.cs">
+      <DependentUpon>Formcombiblicos.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Formcomcrit.cs" />
+    <Compile Include="Formcomcrit.Designer.cs">
+      <DependentUpon>Formcomcrit.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Formcomcritico.cs" />
+    <Compile Include="Formcomcritico.Designer.cs">
+      <DependentUpon>Formcomcritico.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Formcomfilologicos.cs" />
+    <Compile Include="Formcomfilologicos.Designer.cs">
+      <DependentUpon>Formcomfilologicos.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Formcomhistoricos.cs" />
+    <Compile Include="Formcomhistoricos.Designer.cs">
+      <DependentUpon>Formcomhistoricos.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Formcomliterarios.cs" />
+    <Compile Include="Formcomliterarios.Designer.cs">
+      <DependentUpon>Formcomliterarios.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Formdesarrollo.cs" />
+    <Compile Include="Formdesarrollo.Designer.cs">
+      <DependentUpon>Formdesarrollo.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Formdesarrolloreseña.cs" />
+    <Compile Include="Formdesarrolloreseña.Designer.cs">
+      <DependentUpon>Formdesarrolloreseña.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Formelaborarcom.cs" />
+    <Compile Include="Formelaborarcom.Designer.cs">
+      <DependentUpon>Formelaborarcom.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Formelaborarensayo.cs" />
+    <Compile Include="Formelaborarensayo.Designer.cs">
+      <DependentUpon>Formelaborarensayo.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Formelaborarreseña.cs" />
+    <Compile Include="Formelaborarreseña.Designer.cs">
+      <DependentUpon>Formelaborarreseña.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Formencabezadoreseña.cs" />
+    <Compile Include="Formencabezadoreseña.Designer.cs">
+      <DependentUpon>Formencabezadoreseña.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FormEnsayo.cs" />
+    <Compile Include="FormEnsayo.Designer.cs">
+      <DependentUpon>FormEnsayo.cs</DependentUpon>
+    </Compile>
     <Compile Include="Formfici.cs" />
     <Compile Include="Formfici.Designer.cs">
       <DependentUpon>Formfici.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Formfilosofico.cs" />
+    <Compile Include="Formfilosofico.Designer.cs">
+      <DependentUpon>Formfilosofico.cs</DependentUpon>
     </Compile>
     <Compile Include="Formhum.cs" />
     <Compile Include="Formhum.Designer.cs">
@@ -59,13 +131,57 @@
     <Compile Include="Formingles.Designer.cs">
       <DependentUpon>Formingles.cs</DependentUpon>
     </Compile>
+    <Compile Include="Formintroduccion.cs" />
+    <Compile Include="Formintroduccion.Designer.cs">
+      <DependentUpon>Formintroduccion.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Formintroduccionreseña.cs" />
+    <Compile Include="Formintroduccionreseña.Designer.cs">
+      <DependentUpon>Formintroduccionreseña.cs</DependentUpon>
+    </Compile>
     <Compile Include="Formlengua.cs" />
     <Compile Include="Formlengua.Designer.cs">
       <DependentUpon>Formlengua.cs</DependentUpon>
     </Compile>
+    <Compile Include="Formliterario.cs" />
+    <Compile Include="Formliterario.Designer.cs">
+      <DependentUpon>Formliterario.cs</DependentUpon>
+    </Compile>
     <Compile Include="Formmat.cs" />
     <Compile Include="Formmat.Designer.cs">
       <DependentUpon>Formmat.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Formpartesensayo.cs" />
+    <Compile Include="Formpartesensayo.Designer.cs">
+      <DependentUpon>Formpartesensayo.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Formpartesreseña.cs" />
+    <Compile Include="Formpartesreseña.Designer.cs">
+      <DependentUpon>Formpartesreseña.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Formreseña.cs" />
+    <Compile Include="Formreseña.Designer.cs">
+      <DependentUpon>Formreseña.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Formreseñacritica.cs" />
+    <Compile Include="Formreseñacritica.Designer.cs">
+      <DependentUpon>Formreseñacritica.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Formreseñaliteraria.cs" />
+    <Compile Include="Formreseñaliteraria.Designer.cs">
+      <DependentUpon>Formreseñaliteraria.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Formtiposcom.cs" />
+    <Compile Include="Formtiposcom.Designer.cs">
+      <DependentUpon>Formtiposcom.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Formtiposensayo.cs" />
+    <Compile Include="Formtiposensayo.Designer.cs">
+      <DependentUpon>Formtiposensayo.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Formtiposreseña.cs" />
+    <Compile Include="Formtiposreseña.Designer.cs">
+      <DependentUpon>Formtiposreseña.cs</DependentUpon>
     </Compile>
     <Compile Include="MainForm.cs" />
     <Compile Include="MainForm.Designer.cs">
@@ -75,8 +191,62 @@
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
   <ItemGroup>
+    <EmbeddedResource Include="Formargumentativo.resx">
+      <DependentUpon>Formargumentativo.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Formcientifico.resx">
+      <DependentUpon>Formcientifico.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Formcierre.resx">
+      <DependentUpon>Formcierre.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Formcierrereseña.resx">
+      <DependentUpon>Formcierrereseña.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Formcombiblicos.resx">
+      <DependentUpon>Formcombiblicos.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Formcomcrit.resx">
+      <DependentUpon>Formcomcrit.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Formcomcritico.resx">
+      <DependentUpon>Formcomcritico.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Formcomfilologicos.resx">
+      <DependentUpon>Formcomfilologicos.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Formcomhistoricos.resx">
+      <DependentUpon>Formcomhistoricos.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Formcomliterarios.resx">
+      <DependentUpon>Formcomliterarios.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Formdesarrollo.resx">
+      <DependentUpon>Formdesarrollo.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Formdesarrolloreseña.resx">
+      <DependentUpon>Formdesarrolloreseña.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Formelaborarcom.resx">
+      <DependentUpon>Formelaborarcom.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Formelaborarensayo.resx">
+      <DependentUpon>Formelaborarensayo.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Formelaborarreseña.resx">
+      <DependentUpon>Formelaborarreseña.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Formencabezadoreseña.resx">
+      <DependentUpon>Formencabezadoreseña.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FormEnsayo.resx">
+      <DependentUpon>FormEnsayo.cs</DependentUpon>
+    </EmbeddedResource>
     <EmbeddedResource Include="Formfici.resx">
       <DependentUpon>Formfici.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Formfilosofico.resx">
+      <DependentUpon>Formfilosofico.cs</DependentUpon>
     </EmbeddedResource>
     <EmbeddedResource Include="Formhum.resx">
       <DependentUpon>Formhum.cs</DependentUpon>
@@ -84,11 +254,44 @@
     <EmbeddedResource Include="Formingles.resx">
       <DependentUpon>Formingles.cs</DependentUpon>
     </EmbeddedResource>
+    <EmbeddedResource Include="Formintroduccion.resx">
+      <DependentUpon>Formintroduccion.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Formintroduccionreseña.resx">
+      <DependentUpon>Formintroduccionreseña.cs</DependentUpon>
+    </EmbeddedResource>
     <EmbeddedResource Include="Formlengua.resx">
       <DependentUpon>Formlengua.cs</DependentUpon>
     </EmbeddedResource>
+    <EmbeddedResource Include="Formliterario.resx">
+      <DependentUpon>Formliterario.cs</DependentUpon>
+    </EmbeddedResource>
     <EmbeddedResource Include="Formmat.resx">
       <DependentUpon>Formmat.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Formpartesensayo.resx">
+      <DependentUpon>Formpartesensayo.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Formpartesreseña.resx">
+      <DependentUpon>Formpartesreseña.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Formreseña.resx">
+      <DependentUpon>Formreseña.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Formreseñacritica.resx">
+      <DependentUpon>Formreseñacritica.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Formreseñaliteraria.resx">
+      <DependentUpon>Formreseñaliteraria.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Formtiposcom.resx">
+      <DependentUpon>Formtiposcom.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Formtiposensayo.resx">
+      <DependentUpon>Formtiposensayo.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Formtiposreseña.resx">
+      <DependentUpon>Formtiposreseña.cs</DependentUpon>
     </EmbeddedResource>
     <EmbeddedResource Include="MainForm.resx">
       <DependentUpon>MainForm.cs</DependentUpon>
