@@ -91,6 +91,10 @@
     <Compile Include="Formpartesensayo.Designer.cs">
       <DependentUpon>Formpartesensayo.cs</DependentUpon>
     </Compile>
+    <Compile Include="Formprom.cs" />
+    <Compile Include="Formprom.Designer.cs">
+      <DependentUpon>Formprom.cs</DependentUpon>
+    </Compile>
     <Compile Include="Formreseña.cs" />
     <Compile Include="Formreseña.Designer.cs">
       <DependentUpon>Formreseña.cs</DependentUpon>
@@ -139,6 +143,9 @@
     </EmbeddedResource>
     <EmbeddedResource Include="Formpartesensayo.resx">
       <DependentUpon>Formpartesensayo.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Formprom.resx">
+      <DependentUpon>Formprom.cs</DependentUpon>
     </EmbeddedResource>
     <EmbeddedResource Include="Formreseña.resx">
       <DependentUpon>Formreseña.cs</DependentUpon>
