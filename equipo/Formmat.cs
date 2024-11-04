@@ -31,14 +31,8 @@ namespace equipo
 		
 		void Button1Click(object sender, EventArgs e)
 		{
-			prome formprome = new prome();
-			formprome.Show();
-		}
-		
-		void Button2Click(object sender, EventArgs e)
-		{
-			medi formmedia = new medi();
-			formmedia.Show();
+			prom formprom = new prom();
+			formprom.Show();
 		}
 	}
 }
